@@ -1,0 +1,9 @@
+same like Method  in processing
+need not have return type 
+name should be same as class name 
+
+
+DEFAULT CONSTRUCTOR AND PARAMETER CONSTRUCTOR
+
+A() - DEFAULT CONSTRUCTOR
+A(int a ) - PARAMETER CONSTRUCTOR
