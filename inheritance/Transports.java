@@ -1,4 +1,3 @@
-
 class vechicle {
     public void display() {
         System.out.println("Im a vechicle ");

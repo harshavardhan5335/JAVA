@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class nadeem69 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
         // Input year and month from the user
         System.out.print("Enter year: ");
         int year = scanner.nextInt();
@@ -16,7 +15,6 @@ public class nadeem69 {
             System.out.println("Invalid month. Please enter a month between 1 and 12.");
             return;
         }
-
         // Print the calendar for the specified month and year
         printCalendar(year, month);
 
