@@ -1,4 +1,3 @@
-import java.io.*;
 import java.util.Scanner;
 
 public class nadeem69 {
@@ -44,7 +43,7 @@ public class nadeem69 {
         }
 
         System.out.println();
-    }   
+    }
 
     private static int getDayOfWeek(int year, int month, int day) {
         if (month < 3) {

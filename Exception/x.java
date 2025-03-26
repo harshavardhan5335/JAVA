@@ -1,6 +1,3 @@
-import java.io.*;
-import java.util.*;
-
 class SimpleCustomException extends Exception {
     String msg;
 
