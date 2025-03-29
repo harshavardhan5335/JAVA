@@ -1,5 +1,3 @@
-package Multithreading;
-
 class MultithreadingDemo extends Thread {
     public void run() {
         try {
