@@ -1,7 +1,5 @@
 package primecheck;
 
-import java.util.*;
-
 public class PrimeChecker {
     int a;
 

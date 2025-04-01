@@ -1,5 +1,3 @@
-package primecheck;
-
 public class PrimeChecker {
  int a;
  public PrimeChecker(int a) 
